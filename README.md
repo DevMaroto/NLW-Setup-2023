@@ -64,7 +64,7 @@ Leia os README.md de cada pasta para executar.
 
 - [Server Backend](https://github.com/DevMaroto/NLW-Setup-2023/tree/Main/SERVER#como-executar)
 - [Mobile](https://github.com/DevMaroto/NLW-Setup-2023/tree/Main/MOBILE)
-- [Web]()
+- [Web](https://github.com/DevMaroto/NLW-Setup-2023/tree/Main/WEB)
 
 
 
