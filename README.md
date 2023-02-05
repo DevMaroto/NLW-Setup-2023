@@ -27,19 +27,20 @@
 </p>
 
 <p align="center">
-  <img alt="" src="" width="30%">
-  <img alt="" src="" width="30%">
+  <img alt="" src="https://github.com/DevMaroto/NLW-Setup-2023/blob/Main/IMGS/mobilefinal1.png" width="30%">
+  <img alt="" src="https://github.com/DevMaroto/NLW-Setup-2023/blob/Main/IMGS/screenbeta5.png" width="30%">
+  
 </p>
 
 <p align="center">
-  <img alt="" src="" width="30%">
-  <img alt="" src="" width="30%">
+  <img alt="" src="https://github.com/DevMaroto/NLW-Setup-2023/blob/Main/IMGS/mobilefinal2.png" width="30%">
+  <img alt="" src="https://github.com/DevMaroto/NLW-Setup-2023/blob/Main/IMGS/mobilefinal3.png" width="30%">
 </p>
 
 <br>
 <h2 align="center">Diagrama de Relacionamento de Entidade ERD</h2>
 <p align="center">
-  <img alt="" src="">
+  <img alt="" src="https://github.com/DevMaroto/NLW-Setup-2023/blob/Main/IMGS/ERD.svg">
 </p>
 
 
