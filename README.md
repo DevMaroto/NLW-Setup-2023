@@ -58,7 +58,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Fastify 
 - SQLite 
 - Next.js
+- Axios
+- Tailwind CSS
+- Expo
+- Zod
+- Clsx
+- Radix UI
+- ViteJS
 - Git e GitHub
+- React Navigation
+- React Native Reanimated
 
 ## Como executar
 Acessando a pasta de todos os projetos é preciso baixar os pacotes com o gerenciador do seu gosto. <br>
