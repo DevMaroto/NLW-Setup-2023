@@ -63,7 +63,7 @@ Acessando a pasta de todos os projetos é preciso baixar os pacotes com o gerenc
 Leia os README.md de cada pasta para executar.
 
 - [Server Backend]()
-- [Mobile]()
+- [Mobile](https://github.com/DevMaroto/NLW-Setup-2023/blob/Main/MOBILE/README.md)
 - [Web]()
 
 
